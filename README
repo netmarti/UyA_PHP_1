@@ -1,0 +1,12 @@
+----- EXPLICACION CÓDIGOS -----
+
+* Versión inicial
+	En la carpeta "Version_inicial" se encuentran los tres ejemplos de las diapositivas, los cuales han sido copiados y subidos
+	al banot con el objetivo de comprender su funcionamiento.
+
+	El objetivo principal de estos ejemplos es visuarlizar como se incrusta PHP en el código html de diversas formas. Así mismo
+	se puede apreciar que se puede incrustar etiquetas HTML dentro del código PHP.
+
+* Versión corregida
+	En la carpeta denominada "Version_corregida" se han solucionado los problemas que tenían los códigos anteriores ya que estos
+	no mostraban los párrafos como corresponde.
