@@ -11,6 +11,16 @@ Universidad de la Laguna
 	El objetivo principal de estos ejemplos es visuarlizar como se incrusta PHP en el código html de diversas formas. Así mismo
 	se puede apreciar que se puede incrustar etiquetas HTML dentro del código PHP.
 
+	- Enlaces versión inicial:
+		(1) http://banot.etsii.ull.es/alu4019/UyA_PHP_1/Version_inicial/holamundo_v1.php
+		(2) http://banot.etsii.ull.es/alu4019/UyA_PHP_1/Version_inicial/holamundo_v2.php
+		(3) http://banot.etsii.ull.es/alu4019/UyA_PHP_1/Version_inicial/holamundo_v3.php
+
 * Versión corregida
 	En la carpeta denominada "Version_corregida" se han solucionado los problemas que tenían los códigos anteriores ya que estos
 	no mostraban los párrafos como corresponde.
+
+	- Enlaces versión corregida:
+		(1) http://banot.etsii.ull.es/alu4019/UyA_PHP_1/Version_corregida/holamundo_v1.php
+		(2) http://banot.etsii.ull.es/alu4019/UyA_PHP_1/Version_corregida/holamundo_v2.php
+		(3) http://banot.etsii.ull.es/alu4019/UyA_PHP_1/Version_corregida/holamundo_v3.php
