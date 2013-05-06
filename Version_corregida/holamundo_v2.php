@@ -5,8 +5,8 @@
 	<body>
 		<?php
 			echo "<p> &iexcl;Hola mundo! </p>";
-			echo "Prueba de c&oacute;digo PHP sobre banot ";
-			echo "Pr&aacute;cticas de usabilidad y accesibilidad";
+			echo "<p> Prueba de c&oacute;digo PHP sobre banot </p>";
+			echo "<p> Pr&aacute;cticas de usabilidad y accesibilidad </p>";
 		?>
 	</body>
 </html>
